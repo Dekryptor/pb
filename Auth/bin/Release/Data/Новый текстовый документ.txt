@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+<gameserver Name="hidden" Id="0" Type="6" MaxPlayers="300" password="" Ip="127.0.0.1" Port="39190" /> <!Ч —крытый сервер, Ќе убирать, иначе не будут работать сервера. Ч>
+<gameserver Name="first" Id="1" Type="6" MaxPlayers="300" password="" Ip="127.0.0.1" Port="39191" /> <!Ч »меетс€ в основном сервере Ч>
+</list>

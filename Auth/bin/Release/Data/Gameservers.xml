@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<List>
+<GameServer Name="hidden" Id="0" Type="6" MaxPlayers="300" Ip="25.117.204.60" Port="39190"/>
+<GameServer Name="first" Id="1" Type="1" MaxPlayers="300" Ip="25.117.204.60" Port="39191" />
+
+</List>

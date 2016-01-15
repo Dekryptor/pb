@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+<Item Id="10000001" Item="100003005" Credits="0" Points="12000" Quantity="100" Type="3" StockType="0" ItemType="0"/>
+<Item Id="10000002" Item="100003010" Credits="0" Points="12500" Quantity="100" Type="2" StockType="0" ItemType="0"/>
+<Item Id="10000003" Item="100003028" Credits="0" Points="45000" Quantity="100" Type="1" StockType="0" ItemType="0"/>
+<Item Id="10000004" Item="100003048" Credits="0" Points="35000" Quantity="100" Type="3" StockType="0" ItemType="0"/>
+<Item Id="10000005" Item="200004008" Credits="0" Points="12000" Quantity="100" Type="3" StockType="0" ItemType="0"/>
+<Item Id="10000006" Item="200004011" Credits="0" Points="45000" Quantity="100" Type="3" StockType="0" ItemType="0"/>
+<Item Id="10000007" Item="200018004" Credits="0" Points="16000" Quantity="100" Type="3" StockType="0" ItemType="0"/>
+<Item Id="10000008" Item="300005005" Credits="0" Points="45000" Quantity="100" Type="3" StockType="0" ItemType="0"/>
+<Item Id="10000009" Item="300005021" Credits="0" Points="30000" Quantity="100" Type="3" StockType="0" ItemType="0"/>
+<Item Id="10000010" Item="300005030" Credits="0" Points="65000" Quantity="100" Type="3" StockType="0" ItemType="0"/>
+<Item Id="10000011" Item="500010004" Credits="0" Points="30000" Quantity="100" Type="3" StockType="1" ItemType="0"/>
+<Item Id="10000012" Item="400006005" Credits="0" Points="25000" Quantity="100" Type="3" StockType="0" ItemType="0"/>
+<Item Id="10000013" Item="601002001" Credits="0" Points="6000" Quantity="100" Type="3" StockType="0" ItemType="1"/>
+<Item Id="10000014" Item="601002007" Credits="0" Points="10000" Quantity="100" Type="3" StockType="0" ItemType="1"/>
+<Item Id="10000015" Item="601002002" Credits="0" Points="10000" Quantity="100" Type="3" StockType="0" ItemType="1"/>
+<Item Id="10000016" Item="702001004" Credits="0" Points="12000" Quantity="100" Type="3" StockType="0" ItemType="2"/>
+<Item Id="10000017" Item="702001014" Credits="0" Points="12000" Quantity="100" Type="3" StockType="0" ItemType="2"/>
+<Item Id="10000018" Item="904007014" Credits="0" Points="12000" Quantity="100" Type="3" StockType="0" ItemType="4"/>
+<Item Id="10000019" Item="100003123" Credits="0" Points="45000" Quantity="100" Type="3" StockType="1" ItemType="0"/>
+<Item Id="10000020" Item="100003115" Credits="0" Points="45000" Quantity="100" Type="3" StockType="1" ItemType="0"/>
+</List>
