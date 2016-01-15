@@ -2,15 +2,17 @@
 This is Project Blackout Server Emulator of OZ-Network (last revision - May 2015)
 
 # Auth Server
-PROTOCOL_BASE_LOGIN_ACK (auth)
-PROTOCOL_BASE_GET_SETTINGS_ACK (game settings - music, sound and more)
-PROTOCOL_BASE_GET_MYINFO_ACK (user info)
-PROTOCOL_AUTH_FRIEND_INFO_ACK (friends info)
-PROTOCOL_MESSENGER_NOTE_LIST_ACK (messages list)
-PROTOCOL_BASE_USER_LEAVE_ACK (disconnect from auth server)
-PROTOCOL_LOGIN_CHANNEL_LIST (game servers list)
+
+PROTOCOL_BASE_LOGIN_ACK (auth) 
+PROTOCOL_BASE_GET_SETTINGS_ACK (game settings - music, sound and more) 
+PROTOCOL_BASE_GET_MYINFO_ACK (user info) 
+PROTOCOL_AUTH_FRIEND_INFO_ACK (friends info) 
+PROTOCOL_MESSENGER_NOTE_LIST_ACK (messages list) 
+PROTOCOL_BASE_USER_LEAVE_ACK (disconnect from auth server) 
+PROTOCOL_LOGIN_CHANNEL_LIST (game servers list) 
 
 # Game Server
+
 PROTOCOL_BASE_ENTER_CHANNELSELECT_ACK (connect to game server)
 PROTOCOL_BASE_ENTER_PROFILE_ACK (enter player profile)
 PROTOCOL_BASE_LEAVE_PROFILE_ACK (leave player profile)
@@ -78,4 +80,5 @@ PROTOCOL_TUTORIAL_END_ACK (end tutorial mission)
 PROTOCOL_VOTEKICK_START_ACK (start voting in battle)
 
 # Battle Server
+
 Supported 8x8 battles; 1 and 2 server types
