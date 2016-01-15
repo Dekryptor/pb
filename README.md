@@ -1,5 +1,5 @@
 # Info
-* This is Project Blackout Server Emulator of OZ-Network (last revision - May 2015)
+* This is Point Blank Server Emulator of OZ-Network (last revision - May 2015)
 * Client: Point Blank Tahadi
 
 # Auth Server
