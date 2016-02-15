@@ -1,0 +1,113 @@
+#header_bg
+{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 58px; /* Высота блока */
+   z-index:2;
+   background: url(../images/header_b.png) 100% 100% repeat; /* Добавляем фон */
+}
+#oz_logo
+{
+   position:absolute;
+   left:133px;
+   top:21px;
+   width:174px;
+   height:17px;
+   z-index:2;
+   background: url(../images/logo.png) 100% 100% repeat;
+}
+#game_ao
+{
+   position:absolute;
+   left:311px;
+   top:0px;
+   width:193px;
+   height:59px;
+   z-index:3;
+   display:block;
+   background:url("../images/game_allods.png") left top;
+}
+#game_ao:hover
+{
+	background-position:left 59px;
+}
+#game_pb
+{
+   position:absolute;
+   left:499px;
+   top:0px;
+   width:158px;
+   height:59px;
+   z-index:4;
+   display:block;
+   background: url(../images/game_pb.png) left top;
+}
+#game_pb:hover
+{
+	background-position:left 59px;
+}
+#game_l2
+{
+   position:absolute;
+   left:652px;
+   top:0px;
+   width:120px;
+   height:59px;
+   z-index:5;
+   display:block;
+   background: url(../images/game_l2.png) left top;
+}
+#game_l2:hover
+{
+	background-position:left 59px;
+}
+#game_nwo
+{
+   position:absolute;
+   left:767px;
+   top:0px;
+   width:192px;
+   height:59px;
+   z-index:6;
+   display:block;
+   background: url(../images/game_nwo.png) left top;
+}
+#game_nwo:hover
+{
+	background-position:left 59px;
+}
+#game_wi
+{
+   position:absolute;
+   left:954px;
+   top:0px;
+   width:191px;
+   height:59px;
+   z-index:7;
+   display:block;
+   background: url(../images/game_wi.png) left top;
+}
+#game_wi:hover
+{
+	background-position:left 59px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
